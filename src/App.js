@@ -1,9 +1,13 @@
 import './App.css';
+import { Navbar } from './components';
 
 function App() {
   return (
     <div className="App">
-     Starting Project
+     <div className='scale-up-top '>
+        <Navbar />
+     </div>
+     
     </div>
   );
 }
