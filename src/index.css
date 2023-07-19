@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700;1000&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300;400;900&display=swap');
+
+
+:root {
+  /* font */
+  --font-title: 'Nunito Sans', sans-serif;
+  --font-text: 'Fira Sans Condensed', sans-serif;
+
+  /* color */
+  --color-bg: #fff;
+  --color-text_dk: #000;
+  --color-text_lg: #6b7280;
+  --color-footer: #EFDAD7;
+  --color-newletter: #E3BEC6;
+
+}
